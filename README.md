@@ -21,7 +21,7 @@
 - Remove Books from shopping Cart
 - Select and Update Book Quantity
 - Purchased Books List
-- Transactions Hitory
+- Transactions History
 - Logout
 
 ### Technologies used:-
